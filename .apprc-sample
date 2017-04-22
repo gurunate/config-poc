@@ -1,0 +1,23 @@
+[development]
+title = Config POC [dev]
+dbHost =
+dbPort =
+dbUser =
+dbPassword =
+dbSchema =
+
+[test]
+title = Config POC [test]
+dbHost = localhost
+dbPort = 3306
+dbUser = root
+dbPassword =
+dbSchema = config_poc
+
+[production]
+title = Config POC
+dbHost =
+dbPort =
+dbUser =
+dbPassword =
+dbSchema =
